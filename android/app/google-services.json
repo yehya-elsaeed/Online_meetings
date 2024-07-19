@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413774345308",
+    "project_id": "online-meeting-eaaa7",
+    "storage_bucket": "online-meeting-eaaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413774345308:android:dd0a7c35a277f165aca299",
+        "android_client_info": {
+          "package_name": "com.example.online_meeting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413774345308-5jp2gj3762ooilevki3b166896ef3kbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_meeting_app",
+            "certificate_hash": "c989d9bcca8d905157717d6e0c3ce27637f95607"
+          }
+        },
+        {
+          "client_id": "413774345308-d43s8hu7ht0ckvn6ls4qv2nn35ee1l8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQRjFWHsNDibKWtKtX04M4eINKH2CR2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413774345308-d43s8hu7ht0ckvn6ls4qv2nn35ee1l8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
